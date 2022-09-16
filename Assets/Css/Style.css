@@ -1,5 +1,5 @@
-@import url(./__global.css);
-@import url(./__header.css);
-@import url(./__variable.css);
-@import url(./__media.css);
-@import url(./__body.css);
+@import url(/Assets/Css/__global.css);
+@import url(/Assets/Css/__header.css);
+@import url(/Assets/Css/__variable.css);
+@import url(/Assets/Css/__media.css);
+@import url(/Assets/Css/__body.css);
